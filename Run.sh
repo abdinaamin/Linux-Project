@@ -1,5 +1,5 @@
 export R="<html> <head> <title> Amin's page </title> <head> <body> Welcome to my page <a href="/var/www/html/A/A.html">link</a> </body> </html>"
-export P="<html> <head> <title> Yare's page  </title> <head> <body> here is yare's page </body> </html>"
+export P="<html> <head> <title> Mazoud's page  </title> <head> <body> here is yare's page </body> </html>"
 
 cd /var/www/html
 touch index.html
